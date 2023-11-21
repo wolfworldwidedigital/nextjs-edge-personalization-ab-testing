@@ -3,7 +3,7 @@ import { Builder, withChildren } from '@builder.io/react'
 
 export default {
   // Put your Builder public API key here:
-  apiKey: '1c3b72c36b194b318c40d99ec0a3bf75',
+  apiKey: '7d846749fd524f84a120ce01ccc13c8b',
 }
 
 // Register some components to be used in the drag and drop editor
